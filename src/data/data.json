@@ -1,0 +1,49 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Subbyreddy N",
+                "role" : "Multi skill Trainer",
+                "email" : "subbareddy.nallamilli9@gmail.com",
+                "mobile": "+91 7989415985"
+            },
+            "education":[
+                {
+                    "degree":"Post-Graduation",
+                    "institution": "MCA-Ideal College of Arts and Sciences,Kakinada, 70% in 2013"
+                },
+                {
+                    "degree":"Graduation",
+                    "institution": "Computer Science, from santiniketan degree  53% in 2010."
+                },
+                {
+                    "degree":"Intermediate",
+                    "institution":"MPC, from Santiniketan Junior College,with73.4% in 2007"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "SSC, from Z.P.H school pasalapudi with an aggregate of 78% in 2005."
+                }
+            ],
+            "skill":[
+                {
+                    "t":"Web Technologies",
+                    "l":"HTML5"
+                },
+                {
+                    "t":"Programming Languages",
+                    "l":"C,Data Structures"
+                },
+                {
+                    "t":"Operating Systems",
+                    "l":"windows"
+                },
+                {
+                    "t":"Frameworks",
+                    "l":"Bootstrap"
+                }
+            ]
+        }
+        
+    ]
+}
